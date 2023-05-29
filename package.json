@@ -1,0 +1,18 @@
+{
+  "name": "custom-html5-video",
+  "version": "1.0.0",
+  "description": "controles personalizados de video html5 con JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start -s"
+  },
+  "keywords": [
+    "javascript",
+    "html5"
+  ],
+  "author": "Ing. Enrique Mascote (lmascote@utch.edu.mx)",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
